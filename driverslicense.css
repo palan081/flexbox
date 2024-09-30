@@ -20,3 +20,10 @@
     width: 85px;
     min-height: 100px;
 }
+
+.license article h3 {
+    margin-top: unset;
+    padding-top: unset;
+    border-right: 5px solid black;
+    border-left: 1px solid black;
+}
