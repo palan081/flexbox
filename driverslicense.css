@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.license {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem;
+    border: 1px solid grey;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.license aside .headshot {
+    border-radius: 5px;
+    background-color: lightgrey;
+    width: 85px;
+    min-height: 100px;
+}
