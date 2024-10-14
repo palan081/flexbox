@@ -101,6 +101,7 @@ body {
 
     /*Desktop and greater viewports*/
     @media (width >= 1000px) {
+        font-size: 120%;
         article {
             width: 85%;
             display: flex;
